@@ -12,7 +12,8 @@ run the RMD file instead (after downloading the data), using the following comma
 ``library(rmarkdown)``  
 ``render("CreditCardFraud.rmd", "pdf_document")``
 
-Credit Card Fraud Database can be downloaded from KAGGLE, one of the sites suggested by EDX
+Download creditcardfraud.zip file and unzip it into the R Project Working Directory. Credit 
+Card Fraud Database can also be downloaded from KAGGLE, one of the sites suggested by EDX
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 This R Script, RMD file, PDF and HTML reports have 4 Code Sections:
