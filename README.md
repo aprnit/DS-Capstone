@@ -7,10 +7,13 @@ Date: May 2, 2019
                                                                                            
 The R scirpt does not need to be run, all the code contained in R code is also in the 
 accompanying RMD file. For testing the code and generating the HTML report, please 
-run the RMD file instead, using the following commands:
+run the RMD file instead (after downloading the data), using the following commands:
 
 ``library(rmarkdown)``  
 ``render("CreditCardFraud.rmd", "pdf_document")``
+
+Credit Card Fraud Database can be downloaded from KAGGLE, one of the sites suggested by EDX
+https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 This R Script, RMD file, PDF and HTML reports have 4 Code Sections:
 ## Section 1:
@@ -26,9 +29,8 @@ RESULTS - Uses Machine Learning Model - Random Forest to detect Credit Card Frau
 ## Section 4:
 Finally we run the RMD file to generate the HTML report
 
-NOTE THAT IT TAKES A WHILE TO RUN THIS PROGRAM - Fitting the RandomeForest Model
-TAKES MORE THAN 20 MINS on 16BB, I5 MAC  
-#-----------------------------------------------------------------------------------------------------------------------#
+NOTE THAT IT TAKES A WHILE TO RUN THIS PROGRAM - Fitting the RandomForest Model
+TAKES MORE THAN 20 MINS on 16MB, I5 MAC  
 
-Credit Card Fraud Database can be downloaded from KAGGLE, one of the sites suggested by EDX
-https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+
