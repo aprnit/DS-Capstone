@@ -29,7 +29,7 @@ RESULTS - Uses Machine Learning Model - Random Forest to detect Credit Card Frau
 ## Section 4:
 Finally we run the RMD file to generate the HTML report
 
-NOTE THAT IT TAKES A WHILE TO RUN THIS PROGRAM - Fitting the RandomeForest Model
+NOTE THAT IT TAKES A WHILE TO RUN THIS PROGRAM - Fitting the RandomForest Model
 TAKES MORE THAN 20 MINS on 16MB, I5 MAC  
 
 
