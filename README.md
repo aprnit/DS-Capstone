@@ -1,6 +1,6 @@
 # DS-Capstone
 
-R adn RMD files for the Data Science: CYO CAPSTONE (HarvardX - PH125.9x) project for 
+R and RMD files for the Data Science: CYO CAPSTONE (HarvardX - PH125.9x) project for 
 completion of Data Science Professional Certificate from HarvardX through EDX               
 Author: Nitin Sinha
 Date: May 2, 2019
@@ -28,7 +28,7 @@ Finally we run the RMD file to generate the HTML report
 
 NOTE THAT IT TAKES A WHILE TO RUN THIS PROGRAM - Fitting the RandomeForest Model
 TAKES MORE THAN 20 MINS on 16BB, I5 MAC  
-#-------------------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------------------------------------------#
 
 Credit Card Fraud Database can be downloaded from KAGGLE, one of the sites suggested by EDX
 https://www.kaggle.com/mlg-ulb/creditcardfraud
